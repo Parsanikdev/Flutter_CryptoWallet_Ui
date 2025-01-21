@@ -1,5 +1,5 @@
 
- <image src="https://github.com/Parsanikdev/Flutter_CourseStore_Ui/blob/main/CryptoWallet_Ui.jpg">
+ <image src="https://github.com/Parsanikdev/Flutter_CryptoWallet_Ui/blob/main/CryptoWallet_Ui.jpg">
 
 ## About
 
