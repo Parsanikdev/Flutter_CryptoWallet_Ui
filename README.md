@@ -10,9 +10,9 @@ Experience seamless cryptocurrency management with this Flutter app, featuring a
 
 ## Features
 
--  Visually Appealing UI:**  A clean and intuitive design that makes it easy to navigate and interact with your crypto wallet.
--  Crystal Clear Transaction History:** View a detailed history of your cryptocurrency transactions, including the date, amount, and type of cryptocurrency involved.
--  Easy Access to Contacts:**  Keep track of your frequent cryptocurrency contacts for quick and easy transactions.
+-  Visually Appealing UI: A clean and intuitive design that makes it easy to navigate and interact with your crypto wallet.
+-  Crystal Clear Transaction History: View a detailed history of your cryptocurrency transactions, including the date, amount, and type of cryptocurrency involved.
+-  Easy Access to Contacts: Keep track of your frequent cryptocurrency contacts for quick and easy transactions.
 
 
 
